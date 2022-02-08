@@ -21,6 +21,10 @@ namespace ConsoleAppLerning
                         case 1:
                             Exercise1();
                             break;
+
+                        case 2:
+                            Exercise2();
+                            break;
                         //more cases as you progress doing the excersises.
 
                         case -1:
@@ -45,6 +49,11 @@ namespace ConsoleAppLerning
         }//main method
 
         static void Exercise1()
+        {
+            Console.WriteLine("replace this with exercies");
+        }
+
+        static void Exercise2()
         {
             Console.WriteLine("replace this with exercies");
         }
